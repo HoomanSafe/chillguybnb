@@ -6,7 +6,7 @@ const Hero = () => {
     <section className="pt-[100px] lg:min-h-screen flex justify-center pb-[50px] md:pb-[150px] w-full hero">
       <div className="container grid gap-10 lg:grid-col-2 justify-center text-center items-center">
         <article className="flex flex-col gap-4 justify-center items-center">
-          <h1 className="md:text-8xl text-7xl font-bold capitalize">
+          <h1 className="md:text-8xl text-7xl font-bold capitalize text">
             raptor raid
           </h1>
           <p className="text-xl font-mono max-w-[700px]">

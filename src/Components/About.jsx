@@ -7,7 +7,7 @@ const About = () => {
     <section className="py-[50px] w-full">
       <div className="container grid lg:grid-ols-2 justify-between items-center gap-10">
         <article>
-          <h1 className="md:text-6xl text-6xl font-bold text-center capitalize">
+          <h1 className="md:text-6xl text-6xl font-bold text text-center capitalize">
             about
           </h1>{" "}
           {/* <img src={Jesus} alt="" className="md:hidden" /> */}
@@ -34,7 +34,11 @@ const About = () => {
             </p>
           </div>
         </article>
-        <img src={Jesus1} alt="" className="w-7/12 rounded-2xl md:w-[20rem] mx-auto" />
+        <img
+          src={Jesus1}
+          alt=""
+          className="w-7/12 rounded-2xl md:w-[20rem] mx-auto"
+        />
       </div>
     </section>
   );

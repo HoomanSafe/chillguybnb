@@ -4,7 +4,7 @@ import { FaTelegramPlane, FaTwitterSquare } from "react-icons/fa";
 
 const Header = () => {
   return (
-    <header className="py-3 w-full ">
+    <header className="py-3 w-full b bg-black">
       <nav className="container flex justify-between items-center">
         <a href="" className="text-4xl md:text-5xl capitalize">
           raptor raid

@@ -15,4 +15,9 @@
       url(./assets/hero-bg.jpg) center center no-repeat;
     background-size: cover; */
   }
+
+  .text{
+    text-shadow: 3px -1px 0px rgba(0,0,0,1);
+
+  }
 }
