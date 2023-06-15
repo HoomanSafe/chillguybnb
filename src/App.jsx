@@ -6,12 +6,12 @@ import Token from "./Components/Token";
 import Map from "./Components/Map";
 import Footer from "./Components/Footer";
 import { gsap } from "gsap";
+import Aos from "aos";
+import "aos/dist/aos.css";
 
 const App = () => {
   useEffect(() => {
-    // gsap.from(".header", {
-    //   opacity: 0.5,
-    // });
+    Aos.init();
   }, []);
   return (
     <div className="min-h-screen bg-primary w-full font-canterBurry text-white">
@@ -19,8 +19,8 @@ const App = () => {
       <Hero />
       {/* <Token /> */}
       <About />
-      {/* <Map />
-      <Footer /> */}
+      <Map />
+      <Footer />
     </div>
   );
 };

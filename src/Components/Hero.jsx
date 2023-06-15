@@ -3,13 +3,21 @@ import Logo from "../assets/logo.png";
 
 const Hero = () => {
   return (
-    <section className="pt-[100px] lg:min-h-screen flex justify-center pb-[50px] md:pb-[150px] w-full hero">
+    <section className="pt-[100px]  flex justify-center pb-[50px] md:pb-[100px] w-full hero">
       <div className="container grid gap-10 lg:grid-col-2 justify-center text-center items-center">
         <article className="flex flex-col gap-4 justify-center items-center">
-          <h1 className="md:text-8xl text-7xl font-bold capitalize text">
+          <h1
+            data-aos="fade-up"
+            data-aos-duration="1000"
+            className="md:text-8xl animate-bounce text-7xl font-bold capitalize text"
+          >
             raptor raid
           </h1>
-          <p className="text-xl font-mono max-w-[700px]">
+          <p
+            data-aos="fade-left"
+            data-aos-duration="700"
+            className="text-xl font-mono max-w-[700px]"
+          >
             Experience the power of RaptorRaid, the game-changing platform for
             project marketing in the world of decentralized finance. Share your
             ideas and watch them soar with immediate engagement and increased
