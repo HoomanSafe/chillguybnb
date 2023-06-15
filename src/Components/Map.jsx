@@ -35,7 +35,7 @@ const Map = () => {
           >
             <h2 className="text-3xl">phase 2</h2>
             <ul className="flex flex-col w-full list-disc font-mono list-inside">
-              <li className="">Get Holy Raptor Gang trending on Twitter</li>
+              <li className="">Get Raid Raptor trending on Twitter</li>
               <li className="">Marketing Campaign</li>
               <li className="">Initial Cex Listings</li>
               <li className="">Community Growth </li>
