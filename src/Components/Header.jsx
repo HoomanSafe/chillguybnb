@@ -18,7 +18,7 @@ const Header = () => {
           <a
             data-aos="fade-up"
             data-aos-duration="700"
-            href=""
+            href="https://t.me/RaptorRaidERC"
             className="text-xl  transition duration-1000"
           >
             <FaTelegramPlane />{" "}
@@ -26,7 +26,7 @@ const Header = () => {
           <a
             data-aos="fade-left"
             data-aos-duration="700"
-            href=""
+            href="https://twitter.com/RaptorRaidERC"
             className="text-2xl  transition duration-1000"
           >
             <FaTwitterSquare />{" "}

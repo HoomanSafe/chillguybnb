@@ -32,7 +32,7 @@ const Hero = () => {
               buy raid raptor
             </a>
             <a
-              href=""
+              href="https://t.me/RaptorRaidERC"
               className="px-6 py-2   w-max text-2xl capitalize bg-black text-white rounded-xl"
             >
               join community
