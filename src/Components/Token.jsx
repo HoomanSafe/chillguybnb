@@ -8,7 +8,7 @@ const Token = () => {
 
         <div className="w-full flex justify-center gap-x-20 mt-14 flex-col items-center gap-6 md:flex-row">
           <article className="flex flex-col items-center gap-4">
-            <h1 className="text-3xl">100,000,000</h1>
+            <h1 className="text-3xl">200,000,000,000,000,000</h1>
             <p className="text-orange-500 capitalize text-2xl">total supply</p>
           </article>
           <article className="flex flex-col items-center gap-4">
