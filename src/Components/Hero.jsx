@@ -24,7 +24,7 @@ const Hero = () => {
 
           <div className="flex items-center gap-5 flex-wrap justify-center">
             <a
-              href=""
+              href="https://pancakeswap.finance/?outputCurrency=0x6F105384c7Dfe37fA61AECDa4A8290ae69222959"
               className="px-6 py-2 bg-transparent  w-max text-2xl capitalize bg-white text-primary rounded-xl"
             >
               buy $CHILL
