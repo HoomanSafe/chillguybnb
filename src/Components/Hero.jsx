@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../assets/logo.png";
+import Logo from "../assets/chillguylogo.png";
 
 const Hero = () => {
   return (
@@ -11,7 +11,7 @@ const Hero = () => {
             data-aos-duration="1000"
             className="md:text-8xl animate-bounce text-7xl font-bold capitalize text"
           >
-            raptor raid
+            ChillGuyBNB
           </h1>
           <p
             data-aos="fade-left"
@@ -29,10 +29,10 @@ const Hero = () => {
               href=""
               className="px-6 py-2 bg-transparent  w-max text-2xl capitalize bg-white text-primary rounded-xl"
             >
-              buy raid raptor
+              buy $CHILL
             </a>
             <a
-              href="https://t.me/RaptorRaidERC"
+              href="https://t.me/ChillGuyBNB"
               className="px-6 py-2   w-max text-2xl capitalize bg-black text-white rounded-xl"
             >
               join community
