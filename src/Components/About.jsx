@@ -1,6 +1,6 @@
 import React from "react";
-import Jesus1 from "../assets/logo.png";
-import Jesus from "../assets/logo.png";
+import Jesus1 from "../assets/chillguylogo.png";
+import Jesus from "../assets/chillguylogo.png";
 
 const About = () => {
   return (
@@ -17,9 +17,7 @@ const About = () => {
           {/* <img src={Jesus} alt="" className="md:hidden" /> */}
           <div className="grid grid-cols-2  gap-4 mt-14 font-mono">
             <p className="text-xs md:text-xl" data-aos="fade-right">
-              As Elon Musk said “There should be a thing called “RaptorRaid”,
-              everyone needs to help a friend out. Best way to do that is to
-              spread awareness.”
+              BNB ChillGuy is a Binance token that reflects the relaxed and fun-loving spirit of Binance Holders to achieve Financial Fredoom. 
             </p>
 
             <p
@@ -27,19 +25,14 @@ const About = () => {
               data-aos="fade-left"
               data-aos-duration="700"
             >
-              Since the birth of DeFi, raiding has been an effective form of
-              marketing. RaptorRaid has developed a working system that allows
-              users to share their projects and gain additional engagement
-              immediately upon posting!
-            </p>
+              BNB ChillGuy is here to bring the same level of calm and vibrancy to the blockchain. Whether you're a crypto veteran or a newcomer,            </p>
             <p
               className="text-xs md:text-xl"
               data-aos="fade-right"
               data-aos-duration="900"
             >
-              The extra eyes equals out to extra buys! It’s that simple.
-              RaptorRaid is using the most up-to-date technology there is for
-              sharing, posting, gaining momentum, and grabbing attention.
+              BNB ChillGuy is your ticket to fun, community, and positivity—nothing extra needed
+ 
             </p>
             <p
               className="text-xs md:text-xl"
