@@ -17,7 +17,7 @@ const App = () => {
     <div className="min-h-screen bg-primary w-full font-canterBurry text-white">
       <Header />
       <Hero />
-      {/* <Token /> */}
+      <Token />
       <About />
       <Map />
       <Footer />
