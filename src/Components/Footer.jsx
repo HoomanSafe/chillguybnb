@@ -8,13 +8,13 @@ const Footer = () => {
       <div className="container flex justify-center flex-col items-center">
         <div className="flex items-center gap-2">
           <a
-            href="https://t.me/RaptorRaidERC"
+            href="https://t.me/ChillGuyBNB"
             className="text-3xl transition duration-1000"
           >
             <FaTelegramPlane />{" "}
           </a>
           <a
-            href="https://twitter.com/RaptorRaidERC"
+            href="https://twitter.com/ChillGuyBNB"
             className="text-3xl  transition duration-1000"
           >
             <FaTwitterSquare />{" "}
