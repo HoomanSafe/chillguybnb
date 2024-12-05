@@ -17,7 +17,7 @@ const Token = () => {
           </article>
           <article className="flex flex-col items-center gap-4">
             <h1 className="text-3xl">100%</h1>
-            <p className="text-orange-500 capitalize text-2xl">max wallet</p>
+            <p className="text-orange-500 capitalize text-2xl">Locked Liquidity</p>
           </article>
           
         </div>
