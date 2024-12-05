@@ -18,10 +18,8 @@ const Hero = () => {
             data-aos-duration="700"
             className="text-xl font-mono max-w-[700px]"
           >
-            Experience the power of RaptorRaid, the game-changing platform for
-            project marketing in the world of decentralized finance. Share your
-            ideas and watch them soar with immediate engagement and increased
-            buys.
+           BNB ChillGuy is a Binance token that reflects
+            the relaxed and fun-loving spirit of Binance Holders to achieve Financial Fredoom. 
           </p>
 
           <div className="flex items-center gap-5 flex-wrap justify-center">
