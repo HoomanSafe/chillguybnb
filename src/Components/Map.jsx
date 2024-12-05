@@ -1,5 +1,5 @@
 import React from "react";
-import Jesus from "../assets/jesus3.png";
+import Jesus from "../assets/bannerchillguy.jpg";
 
 const Map = () => {
   return (
@@ -35,7 +35,7 @@ const Map = () => {
           >
             <h2 className="text-3xl">phase 2</h2>
             <ul className="flex flex-col w-full list-disc font-mono list-inside">
-              <li className="">Get  Raptor Raid trending on Twitter</li>
+              <li className="">Get  ChillGuy trending on Twitter</li>
               <li className="">Marketing Campaign</li>
               <li className="">Initial Cex Listings</li>
               <li className="">Community Growth </li>
