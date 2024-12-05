@@ -12,17 +12,14 @@ const Token = () => {
             <p className="text-orange-500 capitalize text-2xl">total supply</p>
           </article>
           <article className="flex flex-col items-center gap-4">
-            <h1 className="text-3xl">0%</h1>
+            <h1 className="text-3xl">5%</h1>
             <p className="text-orange-500 capitalize text-2xl">tax</p>
           </article>
           <article className="flex flex-col items-center gap-4">
-            <h1 className="text-3xl">2%</h1>
+            <h1 className="text-3xl">100%</h1>
             <p className="text-orange-500 capitalize text-2xl">max wallet</p>
           </article>
-          <article className="flex flex-col items-center gap-4">
-            <h1 className="text-3xl">1eth</h1>
-            <p className="text-orange-500 capitalize text-2xl">initial mc</p>
-          </article>
+          
         </div>
       </div>
     </section>
