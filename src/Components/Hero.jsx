@@ -37,7 +37,7 @@ const Hero = () => {
             </a>
           </div>
         </article>
-        {/* <img src={Logo} alt="" className="rounded-full" /> */}
+        <img src={Logo} alt="" className="rounded-full" />
       </div>
     </section>
   );
