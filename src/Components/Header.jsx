@@ -12,13 +12,13 @@ const Header = () => {
           data-aos-duration="1000"
           className="text-4xl md:text-5xl capitalize"
         >
-          raptor raid
+          ChillGuyBNB
         </a>
         <div className="flex items-center gap-2">
           <a
             data-aos="fade-up"
             data-aos-duration="700"
-            href="https://t.me/RaptorRaidERC"
+            href="https://t.me/ChillGuyBNB"
             className="text-xl  transition duration-1000"
           >
             <FaTelegramPlane />{" "}
@@ -26,7 +26,7 @@ const Header = () => {
           <a
             data-aos="fade-left"
             data-aos-duration="700"
-            href="https://twitter.com/RaptorRaidERC"
+            href="https://twitter.com/ChillGuyBNB"
             className="text-2xl  transition duration-1000"
           >
             <FaTwitterSquare />{" "}
